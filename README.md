@@ -1,3 +1,1 @@
-
-
-![gradient_mediotext_banner](https://github.com/salemo5m/salemo5m/assets/132095992/b98c4a3d-b3a1-480b-855e-e7ae42e7b8c0)
+![gradient_mediotext_banner](https://github.com/salemo5m/salemo5m/assets/132095992/d0ba4348-e676-4862-94a3-b46f7d386940)
