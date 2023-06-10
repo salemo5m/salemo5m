@@ -9,6 +9,38 @@
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
 
+> **Main Languages**
+> 
+> <a href="https://skillicons.dev">
+>    <img src="https://skillicons.dev/icons?i=cs,cpp,css,express,html,js,nodejs,lua,php" />
+>  </a>
+
+> **Secondary Languages**
+>
+> <a href="https://skillicons.dev">
+>    <img src="https://skillicons.dev/icons?i=git,figma,ps,java" />
+>  </a>
+
+
+</br>
+
+👨‍💻 Fullstack Developer | Reverse Engineer
+🌐 Reversing .sys Config Files to detach Cheat Hooks and steal Cheat Drivers :3
+
+🚀 Passionate about creating seamless user experiences and crafting elegant solutions that blend cutting-edge technologies with efficient networking protocols.
+
+💡 Expertise:
+
+Fullstack Development (JavaScript/TypeScript, Java, Express, Node.js, C#, C++, Lua, HTML, CSS, PHP)
+Networking (TCP/IP, DNS, VPN, Routing, Switching)
+
+🎯 Currently focused on:
+
+Improving my qualities in Frontend Development and C++
+Developing for Exchange Club GbR - An Automatic Web/Discord Crypto Exchange Provider
+Designing and implementing secure and resilient network architectures
+🌟 Let's connect and collaborate on exciting projects! Feel free to reach out for networking opportunities, coding discussions, or a friendly chat. 🤝
+
 ### 📫 How to reach me:
 
 - Website: [oryph.com/salemo](https://oryph.com/salemo)
