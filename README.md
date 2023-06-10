@@ -1,4 +1,5 @@
-![salemo](https://github.com/salemo5m/salemo5m/assets/132095992/07c09cfb-7690-4138-a23b-303b7455756a)
+![salemo](https://github.com/salemo5m/salemo5m/assets/132095992/b28ff7f6-86d7-48c2-b81f-a17ed4477a05)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/last%20major%20release-aug.%202000-important" />
