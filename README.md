@@ -15,7 +15,7 @@
 >    <img src="https://skillicons.dev/icons?i=cs,cpp,css,express,html,js,nodejs,lua,php" />
 >  </a>
 
-> **Secondary Languages**
+> **Secondary Skills**
 >
 > <a href="https://skillicons.dev">
 >    <img src="https://skillicons.dev/icons?i=git,figma,ps,java" />
