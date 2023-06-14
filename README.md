@@ -43,6 +43,5 @@ Designing and implementing secure and resilient network architectures
 
 ### 📫 How to reach me:
 
-- Website: [oryph.com/salemo](https://oryph.com/salemo)
-- Twitter: [cashboy04](https://twitter.com/cashboy04)
-- Discord: [Salemo#0001](https://discord.gg/mediodev)
+- Website: [Crimenet](https://crimenet.pw/salemo)
+- Discord: [Medio](https://discord.gg/mediodev)
